@@ -21,7 +21,5 @@ In this demonstration, 4 logic functions are reconfigured on the fly by remappin
 * Peripheral I/O: 4 onboard user LEDs for status display, Reset button
 
 # Files
--reconfig_demo.v
- Verilog code of the bitwise operation demonstration with SPI communication enabled
--reconfigDemo_MCU.ino
- Code of the Arduino Uno MCU
+* reconfig_demo.v: Verilog code file of the bitwise operation demonstration with SPI communication enabled
+* reconfigDemo_MCU.ino: Code file of the Arduino Uno MCU
